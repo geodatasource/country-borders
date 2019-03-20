@@ -1,8 +1,8 @@
-# Country Borders List
+# Country Borders
 Data that provides list of countries together with the land border countries. The country code follows the ISO 3166 standard which allow the data to be retrieved easily.
 
 ## Data fields
-Below are the fields supported in the Country Borders List.
+Below are the fields supported in the Country Borders.
 
 |Field Name|Description|
 |---|---|
@@ -13,9 +13,9 @@ Below are the fields supported in the Country Borders List.
 
 
 ## License
-The Country Borders list data is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). It is free for personal or commercial use with attribution required by mentioning the use of this data as follows,
+The Country Borders data is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). It is free for personal or commercial use with attribution required by mentioning the use of this data as follows,
 
-**This site or product includes Country Borders List data available from <a href="https://www.geodatasource.com">https://www.geodatasource.com</a>.**
+**This site or product includes Country Borders data available from <a href="https://www.geodatasource.com">https://www.geodatasource.com</a>.**
 
 
 ## SUPPORT
