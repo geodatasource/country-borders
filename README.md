@@ -1,5 +1,7 @@
 # Country Borders
-Data that provides list of countries together with the land border countries. The country code follows the ISO 3166 standard which allow the data to be retrieved easily.
+Country Borders provides a complete list of countries together with the land border countries (the neighbouring countries). The data come in form of CSV format, and you can easily import into any relational database for query. Furthermore, this data use ISO3166-1 for the country code allowing you to retrieve and use the information with ease. 
+
+The data file: GEODATASOURCE-COUNTRY-BORDERS.CSV
 
 ## Data fields
 Below are the fields supported in the Country Borders.
@@ -19,6 +21,5 @@ The Country Borders data is licensed under [Creative Commons Attribution-ShareAl
 
 
 ## SUPPORT
-Email: support@geodatasource.com
-
 Website: https://www.geodatasource.com
+Contact us at https://www.geodatasource.com/contact
